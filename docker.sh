@@ -3,4 +3,4 @@ docker run -d \
     --network expense \
     --name expense-frontend \
     -p 80:80 \
-    frontend:5.0
+    frontend:6.0
